@@ -41,7 +41,7 @@ For example:
 
 This repository is a monorepo containing all the core components of the `.byweech` project.
 
-```
+
 .
 ├── 📁 App/          # Source code for the mobile application (e.g., React Native, Flutter)
 ├── 📁 Client/       # Shared client-side libraries, SDKs, or common code
@@ -55,7 +55,7 @@ This repository is a monorepo containing all the core components of the `.byweec
 ├── └── 📁 service-core/
 ├── 📁 Web/          # Source code for the web application/frontend (e.g., React, Vue, Angular)
 └── README.md
-```
+
 
 ### Component Overview
 
