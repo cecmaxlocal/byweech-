@@ -9,10 +9,12 @@
         "flet",
         "funcall",
         "iptional",
+        "LBLIBS",
         "lexenv",
         "localn",
         "macroexpand",
         "optinal",
-        "Tauri"
+        "Tauri",
+        "Wextra"
     ]
 }
