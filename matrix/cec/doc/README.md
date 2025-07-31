@@ -2,8 +2,7 @@ Of course. Here is a comprehensive `README.md` template based on your provided k
 
 This template assumes your project is a monorepo containing different components (web, desktop, servers, etc.).
 
-![UgaUga](../image/logon.webp)
-
+<img src="../image/logon.webp" width="812" height="512">
 ---
 
 ```markdown
