@@ -4,7 +4,7 @@ LDFLAGS =  main.cpp
 
 SRC = 
 OBJ = $(SRC:.cc=.o)
-EXEC = `byweech$`
+EXEC = byweech$
 
 all: $(EXEC)
 
